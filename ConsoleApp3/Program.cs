@@ -17,6 +17,7 @@ namespace ConsoleApp3
             int b = 5;
             int c = 5;
             string c = "furkan";
+            string k = "furkanın yaptığı değişiklik";
 
 
         }
